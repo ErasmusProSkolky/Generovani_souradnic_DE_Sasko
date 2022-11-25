@@ -23,9 +23,9 @@ Sloučení nepovedených
 
     výstup: DE_Sasko_nepovedene_MS.csv
 
-Přečištění nepovedených
+Čištění nepovedených
 
-    soubor: Sasko_radky.py
+    soubor: cisteni_nepovedenych.py
     
     vstup: DE_Sasko_nepovedene_MS.csv
     
@@ -33,7 +33,7 @@ Přečištění nepovedených
 
 Souřadnice z gpsvisualizer.com
 
-    soubor: Sasko_sloupce.py
+    soubor: souradnice_gpsvisualizer.py
     
     vstup: Sasko_geo.csv
     
